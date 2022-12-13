@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pichaya07/3d-estimation-react.git/static/css/main.073c9b0a.css",
-    "main.js": "/pichaya07/3d-estimation-react.git/static/js/main.2ad2d9bb.js",
-    "static/js/787.49e42335.chunk.js": "/pichaya07/3d-estimation-react.git/static/js/787.49e42335.chunk.js",
-    "index.html": "/pichaya07/3d-estimation-react.git/index.html",
-    "main.073c9b0a.css.map": "/pichaya07/3d-estimation-react.git/static/css/main.073c9b0a.css.map",
-    "main.2ad2d9bb.js.map": "/pichaya07/3d-estimation-react.git/static/js/main.2ad2d9bb.js.map",
-    "787.49e42335.chunk.js.map": "/pichaya07/3d-estimation-react.git/static/js/787.49e42335.chunk.js.map"
+    "main.css": "./static/css/main.073c9b0a.css",
+    "main.js": "./static/js/main.8e198a79.js",
+    "static/js/787.49e42335.chunk.js": "./static/js/787.49e42335.chunk.js",
+    "index.html": "./index.html",
+    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
+    "main.8e198a79.js.map": "./static/js/main.8e198a79.js.map",
+    "787.49e42335.chunk.js.map": "./static/js/787.49e42335.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2ad2d9bb.js"
+    "static/js/main.8e198a79.js"
   ]
 }
